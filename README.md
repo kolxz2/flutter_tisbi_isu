@@ -1,16 +1,7 @@
 # flutter_tisbi_isu
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/kolxz2/flutter_tisbi_isu/blob/master/photo_2022-12-09_10-17-45.jpg?raw=true)
+![alt text](https://github.com/kolxz2/flutter_tisbi_isu/blob/master/photo_2022-12-09_10-17-50.jpg?raw=true)
+![alt text](https://github.com/kolxz2/flutter_tisbi_isu/blob/master/photo_2022-12-09_10-18-02.jpg?raw=true)
+![alt text](https://github.com/kolxz2/flutter_tisbi_isu/blob/master/photo_2022-12-09_10-18-06.jpg?raw=true)
+![alt text](https://github.com/kolxz2/flutter_tisbi_isu/blob/master/photo_2022-12-09_10-25-25.jpg?raw=true)
